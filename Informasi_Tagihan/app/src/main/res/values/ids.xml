@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="id" type="id">2</item>
+    <item name="name" type="id">3</item>
+    <item name="activity_main" type="id">4</item>
+</resources>
